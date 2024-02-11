@@ -15,6 +15,8 @@ export class Tag {
   static readonly ASPNET = new Tag('ASPNET', 'cyan');
   static readonly CSHARP = new Tag('CSHARP', 'cyan');
   static readonly PYTHON = new Tag('PYTHON', 'cyan');
+  static readonly TAILWIND = new Tag('Tailwind', 'cyan');
+
 
 
 
